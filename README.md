@@ -44,3 +44,8 @@ Contributions are welcomed! Please feel free to fork the repository and submit p
 
 License
 This project is licensed under the MIT License.
+
+code attribution / Author: ASP.NET MVC
+// Title: How to Pass Data From one View to another View in ASP.NET CORE
+// URL: https://youtu.be/yFDc5Fp1LoM?si=kG-EhcI6C09AdBfB
+// Date Created:  4 June 2017
