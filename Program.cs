@@ -41,3 +41,7 @@ app.MapControllerRoute(
 app.MapRazorPages();
 
 app.Run();
+// Author: ASP.NET MVC
+// Title: How to Pass Data From one View to another View in ASP.NET CORE
+// URL: https://youtu.be/yFDc5Fp1LoM?si=kG-EhcI6C09AdBfB
+// Date Created:  4 June 2017
